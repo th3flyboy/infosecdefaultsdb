@@ -62,9 +62,7 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
  <tr><td>Clickability (Limelight Networks)</td><td>hosted by limelight?</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>CMS Made Simple</td><td>&nbsp;</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/cmsmadesimple</td></tr>
  <tr><td>CMSimple</td><td>&nbsp;</td><td>admin</td><td>test</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/cmsimple</td></tr>
- <tr><td>Composite C1</td><td>/Administration</td><td>admin@<samplestore>.com</td><td>admin</td><td>&nbsp;</td><td>Username may be admin@yourstore.com</td><td>&nbsp;</td></tr>
  <tr><td>Computhink ViewWise</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>Concrete5</td><td>/index.php/login (alternatively /dashboard) </td><td>admin</td><td>random set at install</td><td>"Yep, great tip. When you go to logs (after resetting the password), you tick the box for emails sent and click on print view with full text. This opens the email that was sent with the link to set a new password. Click on that link and it will open a new browser window."</td><td>http://exploitsdownload.com/search/concrete5</td></tr>
  <tr><td>Contegro</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Hosted on Contegro. </td><td>&nbsp;</td></tr>
  <tr><td>Content SORT</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>WP plugin</td><td>&nbsp;</td></tr>
  <tr><td>CoreMedia WCM</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td><- Magic Quadrant Masterbaters</td><td>&nbsp;</td></tr>
@@ -75,7 +73,6 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
  <tr><td>Dotclear</td><td>/dotclear/admin/</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/dotclear</td></tr>
  <tr><td>dotCMS</td><td>/admin/</td><td>admin@dotcms.org (pre 1.9.2 test@dotcms.org)</td><td>admin (pre 1.9.2 test)</td><td>http://dotcms.com/docs/1.9/DefaultsOnAnInitialDotCMSInstall</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/dotcms</td></tr>
  <tr><td>DotNetNuke</td><td>Admin login</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/dotnetnuke</td></tr>
- <tr><td>Drupal</td><td>/admin or /?q=admin (non-clean) </td><td>admin</td><td>assigned in setup</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/drupal</td></tr>
  <tr><td>DSpace</td><td>(dspace?).site.com/admin </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>DynPG</td><td>/cms or /dynpg</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/dynpg</td></tr>
  <tr><td>e107</td><td><siteURL>/<Basedir>/e107_admin/admin.php?view.all</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/e107</td></tr>
