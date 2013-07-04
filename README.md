@@ -53,11 +53,16 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
 * BLOG:CMS
 * blosxom
 * Bricolage
+* Cascade Server
 * Composite C1
 * Concrete5
 * Drupal
 * Elcom CMS
 * Ektron CMS400.Net
+
+# List of Wikis in DB
+* Dokuwiki
+* Mediawiki
 
 <table>
  
@@ -73,7 +78,6 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
  <tr><td>Cotonti</td><td>/admin.php</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/cotonti</td></tr>
  <tr><td>Daisy</td><td>/login</td><td>admin</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Django-cms</td><td>/admin</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/django</td></tr>
- <tr><td>Dokuwiki</td><td>/dokuwiki?do=login</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/dokuwiki</td></tr>
  <tr><td>Dotclear</td><td>/dotclear/admin/</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/dotclear</td></tr>
  <tr><td>dotCMS</td><td>/admin/</td><td>admin@dotcms.org (pre 1.9.2 test@dotcms.org)</td><td>admin (pre 1.9.2 test)</td><td>http://dotcms.com/docs/1.9/DefaultsOnAnInitialDotCMSInstall</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/dotcms</td></tr>
  <tr><td>DotNetNuke</td><td>Admin login</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/dotnetnuke</td></tr>
@@ -113,7 +117,6 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
  <tr><td>Lyceum</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Magnolia</td><td>:8080/magnoliaAuthor/.magnolia.</td><td>superuser</td><td>superuser</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Mambo</td><td>administrator/index.php</td><td>admin</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>Mediawiki </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>MiaCMS</td><td>/login.php</td><td>admin</td><td>let_me_in</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Microsoft Office 365</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Microsoft SharePoint Foundation</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
