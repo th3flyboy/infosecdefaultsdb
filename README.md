@@ -62,7 +62,6 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
 <table>
  
 
- <tr><td>Cascade Server</td><td>/login.act</td><td>&nbsp;</td><td>&nbsp;</td><td>http://help.hannonhill.com/kb/security</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>CivicSpace</td><td>To be determined</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Clickability (Limelight Networks)</td><td>hosted by limelight?</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>CMS Made Simple</td><td>&nbsp;</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/cmsmadesimple</td></tr>
