@@ -53,7 +53,11 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
 * BLOG:CMS
 * blosxom
 * Bricolage
-
+* Composite C1
+* Concrete5
+* Drupal
+* Elcom CMS
+* Ektron CMS400.Net
 <table>
  
 
@@ -76,8 +80,6 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
  <tr><td>DSpace</td><td>(dspace?).site.com/admin </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>DynPG</td><td>/cms or /dynpg</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/dynpg</td></tr>
  <tr><td>e107</td><td><siteURL>/<Basedir>/e107_admin/admin.php?view.all</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/e107</td></tr>
- <tr><td>Ektron CMS400.Net</td><td>/workarea/login.aspx</td><td>admin</td><td>admin</td><td>documentation.ektron.com/CMS400/v70/adminmanual.pdf</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>Elcom CMS</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/elcom</td></tr>
  <tr><td>EMC Documentum ECM</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>EPrints</td><td>/perl/users/home</td><td>admin</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Escenic Content Engine</td><td>/escenic/ </td><td><publication>_admin <where publication= the content's name></td><td>Specified by owner</td><td>documentation.vizrt.com/ece-pub-admin-guide-5.4.pdf</td><td>&nbsp;</td><td>&nbsp;</td></tr>
