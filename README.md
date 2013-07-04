@@ -54,11 +54,15 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
 * blosxom
 * Bricolage
 * Cascade Server
+* CivicSpace
 * Composite C1
 * Concrete5
+* Django-cms
 * Drupal
 * Elcom CMS
 * Ektron CMS400.Net
+* Joomla!
+* OpenWGA
 
 # List of Wikis in DB
 * Dokuwiki
@@ -67,7 +71,6 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
 <table>
  
 
- <tr><td>CivicSpace</td><td>To be determined</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Clickability (Limelight Networks)</td><td>hosted by limelight?</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>CMS Made Simple</td><td>&nbsp;</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/cmsmadesimple</td></tr>
  <tr><td>CMSimple</td><td>&nbsp;</td><td>admin</td><td>test</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/cmsimple</td></tr>
@@ -77,7 +80,6 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
  <tr><td>CoreMedia WCM</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td><- Magic Quadrant Masterbaters</td><td>&nbsp;</td></tr>
  <tr><td>Cotonti</td><td>/admin.php</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/cotonti</td></tr>
  <tr><td>Daisy</td><td>/login</td><td>admin</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>Django-cms</td><td>/admin</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/django</td></tr>
  <tr><td>Dotclear</td><td>/dotclear/admin/</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/dotclear</td></tr>
  <tr><td>dotCMS</td><td>/admin/</td><td>admin@dotcms.org (pre 1.9.2 test@dotcms.org)</td><td>admin (pre 1.9.2 test)</td><td>http://dotcms.com/docs/1.9/DefaultsOnAnInitialDotCMSInstall</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/dotcms</td></tr>
  <tr><td>DotNetNuke</td><td>Admin login</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/dotnetnuke</td></tr>
@@ -107,7 +109,6 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
  <tr><td>        </td></tr>
  <tr><td>"</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>JCore</td><td>/admin/</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>Joomla!</td><td>/administrator or /joomla/administrator</td><td>admin</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Jumbo</td><td>jumbo/loginpage.php</td><td>admin</td><td>password</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Kajona</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Kentico CMS</td><td>/CMSSiteManager</td><td>administrator</td><td>:blank:</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
@@ -136,7 +137,6 @@ API Documentation: [https://apigee.com/console](https://apigee.com/console)
  <tr><td>OpenText ECM Suite</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>OpenText Web Experience Management</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>OpenText Web Site Management</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>OpenWGA</td><td>/admin</td><td>admin</td><td>wga</td><td>http://www.openwga.com/home/support/tutorials/going_live_from_openwga_developer_studio.en.html</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>Opus</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://exploitsdownload.com/search/opus</td></tr>
  <tr><td>Oracle ECM Suite</td><td><sitename>.com:7001/console</td><td>&nbsp;</td><td>&nbsp;</td><td>http://docs.oracle.com/cd/E17904_01/doc.1111/e14495/verify.htm#CHDHCEFB</td><td>creds set in setup</td><td>&nbsp;</td></tr>
  <tr><td>Orchard Project</td><td>/Admin/</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>creds set in setup</td><td>&nbsp;</td></tr>
